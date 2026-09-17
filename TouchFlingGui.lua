@@ -118,7 +118,7 @@ LMG2L["UICorner_e"] = Instance.new("UICorner", LMG2L["Toggle_d"])
 LMG2L["UICorner_e"].CornerRadius = UDim.new(0, 15)
 
 local u16 = false
-local u17 = 1000
+local u17 = 100
 
 local function setupDrag(gui)
 	local dragging
